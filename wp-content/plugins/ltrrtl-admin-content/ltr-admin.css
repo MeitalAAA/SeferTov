@@ -1,0 +1,26 @@
+#wp-content-editor-container.wp-editor-container textarea,
+.ltr-admin #wpcontent #wpbody
+{
+	direction: ltr;
+}
+
+#wpadminbar .admin-body-ltr-adminbar:hover a.ab-item,
+#wpadminbar .admin-body-ltr-adminbar a.ab-item
+{
+	background: #666;
+}
+#wpadminbar .admin-body-ltr-adminbar a.ab-item span
+{
+	font-weight: bold!important;
+}
+#wpadminbar .admin-body-ltr-adminbar a.ab-item i
+{
+	display: inline;
+	padding: 2px 13px;
+	background: no-repeat center center url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAUCAYAAACJfM0wAAAABmJLR0QA7gDuAO6KafAUAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3gEFCAwOq0A9zgAAAAxpVFh0Q29tbWVudAAAAAAAvK6ymQAABCBJREFUOMutVV9oHEUc/mZ2dm/3NmluY5s7czkoubPcEZq0PULog5qUCgEbyr2IXIJPbQmohXq+SJ4CBkO5+qBIsCdoDQlBYlEINlBoCwZDQUn9E+64cLW1CclVmr00t+5mLzvrgzmIMY2K/l6GGeb3ze/75vfNAP9DqKqqACDb14R/mCsAUADQ1tZWrVgsIh6P1ywvLzvDw8OnE4nEC4yxn3O5XLmaQPYAIwBoMpmMhUKhNgCK3+8/bNu2K0mSYJrmo0qlYofD4dclSXq4uLj4biqVmgCw8SRgAoBEIpHwhQsXXlVV9UVRFPfJstzAOYcgCHBdF5xz3XGcDVmWA4QQlEqlT2dmZtKZTOYnAC7bBbj+0qVLZ5uamgYopTWEEFiWtWQYxl3HcX4FwGRZDoiiWKcoiua6LgghqK2tfe7YsWM/ALgLwNiusXD+/Plnz50790FDQ8NZQRAk0zTv5HK595aWlr6Ym5v78MqVK1cppXd8Pt++urq6NkopJYSAEALGmI9SWu7o6Mhev359mQGAIAhyMplsP3To0Fs1NTUnOOdr+Xw+PTAw8DGA3wCUAMDv99fEYrHn6+vr44IgMM65Ydu2QSk1DcMoCILgmqZpAGAMAKLRaKCjo+OM3+/vNk3zl4WFhZHJyclxACsAnCqlrq4uBcCmYRjf6rr+WaFQyNXW1m5MTU0tuK5rz83NLVeLYAAwPz9/T9O0lznnXNf1L6enpz/JZrMrO8W/f//+ms/n++ratWuf37p1axWAZ4vR3pFOpy/29PQcrh64RxvuFfSJk12MsxcY6+npOZxOpy8CgCRJbDsg37HZAeAFIHR2dh7o7+8PHT9+3LMbant7+/6TJ0+eDYVCqbGxsQ3btjexg7Lv6NGjTxNCpFOnTj2zvr7uCYfDUUmSmnVd/7pUKl2dnZ19uJ1VLBYLdnd3JzVNO00ppbquT7S0tBycn5+/xwCwwcHBSHNz89uO42iqqoY554okSSqlVC2Xy3ld12dv3rxpbpPEB8Db19f3SiQSeRNAXbFYnL59+/ZHuVxupVrxpqIoKmOMaJp2gnMO13X/0MNxNldXV7/LZrP3PB7Pwd7eXiUYDEYVRQlGIpGXvF7vEc45Hj9+fCOfz78zOjr6TbU9qxWoIyMj/X6//zXG2EHOOQghqFQq5UqlsmZZ1gqATUEQDlBKPbIsB7fei/Li4uJQKpXKAHi02+1vNjY2rgcCgaAsy20AYFnWCiGEMMYaZFluFEWxyePxaI7jWJZlLZdKpdGhoaEzExMTUwDMv7TK1uhmMpl8NBq9IcvyEdu2GwqFwvuiKEqKojxl27YjSRIpFos/AjAfPHjw/fj4eHarm9y/NUgikQhcvnz5jeHh4QQAMR6PawC8ra2t+7dc5v0Xn8OfjbD1zfzn+B2H2KHKvEh8MwAAAABJRU5ErkJggg==);
+}
+
+.admin-body-ltr-adminbar #dir-rtl { color: #FFF; }
+.admin-body-ltr-adminbar #dir-ltr { color: #BBB; }
+.ltr-admin .admin-body-ltr-adminbar #dir-rtl { color: #BBB; }
+.ltr-admin .admin-body-ltr-adminbar #dir-ltr { color: #FFF; }

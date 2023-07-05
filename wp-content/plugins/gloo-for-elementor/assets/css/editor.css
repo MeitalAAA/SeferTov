@@ -1,0 +1,36 @@
+body.elementor-editor-active .elementor-control-type-section[class*="elementor-control-gloo_"] .elementor-panel-heading .elementor-section-title {
+    background-image: url('../images/logo.png');
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: 40px;
+    opacity: 1;
+    width: 100%;
+}
+
+body.elementor-editor-active.rtl .elementor-control-type-section[class*="elementor-control-gloo_"] .elementor-panel-heading .elementor-section-title {
+    background-position: center left;
+}
+
+
+.elementor-control.gloo-hidden-control {
+    display: none;
+}
+
+.elementor-control.gloo-dynamify-main-control .eicon-edit:before {
+    content: '\e91a';
+}
+
+.elementor-control-type-popover_toggle.gloo-dynamify-main-control .elementor-control-popover-toggle-toggle:checked + .elementor-control-popover-toggle-toggle-label .eicon-edit:before {
+    color: red;
+}
+
+.elementor-control-type-popover_toggle.gloo-dynamify-main-control .elementor-control-popover-toggle-toggle:checked + .elementor-control-popover-toggle-toggle-label {
+    border-color: red;
+}
+
+.elementor-control-gloo_interactor_events .elementor-control-type-text input,
+.elementor-control-gloo_interactor_events .elementor-control-type-text textarea,
+.elementor-control-gloo_interactor_triggers .elementor-control-type-text input,
+.elementor-control-gloo_interactor_triggers .elementor-control-type-text textarea{
+    direction: ltr;
+}

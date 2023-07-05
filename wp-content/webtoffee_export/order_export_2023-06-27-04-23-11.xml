@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Orders><Order>
+ <order_id>174854</order_id>
+ <order_number>174854</order_number>
+ <order_date>2023-06-27 12:15:53</order_date>
+ <paid_date/>
+ <status>cancelled</status>
+ <shipping_total>0</shipping_total>
+ <shipping_tax_total>0.00</shipping_tax_total>
+ <fee_total>0.00</fee_total>
+ <fee_tax_total>0.00</fee_tax_total>
+ <tax_total>0.00</tax_total>
+ <cart_discount>0.00</cart_discount>
+ <order_discount>0.00</order_discount>
+ <discount_total>0.00</discount_total>
+ <order_total>99.00</order_total>
+ <order_subtotal>99.00</order_subtotal>
+ <order_currency>ILS</order_currency>
+ <payment_method>cardcom</payment_method>
+ <payment_method_title>תודה שבחרת בספרים נעביר אותך לדף הסליקה</payment_method_title>
+ <transaction_id></transaction_id>
+ <customer_ip_address>147.235.192.16</customer_ip_address>
+ <customer_user_agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36</customer_user_agent>
+ <shipping_method></shipping_method>
+ <customer_id>5</customer_id>
+ <customer_user>5</customer_user>
+ <customer_email>meital.arye@gmail.com</customer_email>
+ <billing_first_name>שד</billing_first_name>
+ <billing_last_name>דגכש</billing_last_name>
+ <billing_company></billing_company>
+ <billing_email>meital.arye@gmail.com</billing_email>
+ <billing_phone>34534</billing_phone>
+ <billing_address_1>Di rossi 9</billing_address_1>
+ <billing_address_2></billing_address_2>
+ <billing_postcode>2342</billing_postcode>
+ <billing_city>Tel aviv</billing_city>
+ <billing_state></billing_state>
+ <billing_country>IL</billing_country>
+ <shipping_first_name></shipping_first_name>
+ <shipping_last_name></shipping_last_name>
+ <shipping_company></shipping_company>
+ <shipping_phone></shipping_phone>
+ <shipping_address_1></shipping_address_1>
+ <shipping_address_2></shipping_address_2>
+ <shipping_postcode></shipping_postcode>
+ <shipping_city></shipping_city>
+ <shipping_state></shipping_state>
+ <shipping_country></shipping_country>
+ <customer_note></customer_note>
+ <wt_import_key>174854</wt_import_key>
+ <shipping_items></shipping_items>
+ <fee_items></fee_items>
+ <tax_items></tax_items>
+ <coupon_items></coupon_items>
+ <refund_items></refund_items>
+ <order_notes>content:הזמנה שלא שולמה בוטלה - מסגרת הזמן הסתיימה. מצב ההזמנה שונה ממצב ממתין לתשלום למצב בוטלו.|date:2023-06-27 13:56:21|customer:|added_by:system</order_notes>
+ <download_permissions>0</download_permissions>
+ <meta:is_vat_exempt xmlns:meta="meta">no</meta:is_vat_exempt>
+ <meta:profile xmlns:meta="meta">3278d83c-34e0-4d66-8b5a-876374bb5fb6</meta:profile>
+ <meta:save_token_on_user xmlns:meta="meta"></meta:save_token_on_user>
+ <line_item_1>name:תורה ככתבה וכפירושה|product_id:159896|sku:159896|quantity:1|total:99.00|sub_total:99.00</line_item_1>
+ <line_item_2></line_item_2>
+ <line_item_3></line_item_3>
+</Order>
+<Order>
+ <order_id>174853</order_id>
+ <order_number>174853</order_number>
+ <order_date>2023-06-27 12:13:53</order_date>
+ <paid_date/>
+ <status>processing</status>
+ <shipping_total>0</shipping_total>
+ <shipping_tax_total>0.00</shipping_tax_total>
+ <fee_total>0.00</fee_total>
+ <fee_tax_total>0.00</fee_tax_total>
+ <tax_total>0.00</tax_total>
+ <cart_discount>0.00</cart_discount>
+ <order_discount>0.00</order_discount>
+ <discount_total>0.00</discount_total>
+ <order_total>99.00</order_total>
+ <order_subtotal>99.00</order_subtotal>
+ <order_currency>ILS</order_currency>
+ <payment_method>cod</payment_method>
+ <payment_method_title>מזומן בעת מסירה</payment_method_title>
+ <transaction_id></transaction_id>
+ <customer_ip_address>147.235.192.16</customer_ip_address>
+ <customer_user_agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36</customer_user_agent>
+ <shipping_method></shipping_method>
+ <customer_id>5</customer_id>
+ <customer_user>5</customer_user>
+ <customer_email>meital.arye@gmail.com</customer_email>
+ <billing_first_name>שד</billing_first_name>
+ <billing_last_name>דגכש</billing_last_name>
+ <billing_company></billing_company>
+ <billing_email>meital.arye@gmail.com</billing_email>
+ <billing_phone>34534</billing_phone>
+ <billing_address_1>Di rossi 9</billing_address_1>
+ <billing_address_2></billing_address_2>
+ <billing_postcode>2342</billing_postcode>
+ <billing_city>Tel aviv</billing_city>
+ <billing_state></billing_state>
+ <billing_country>IL</billing_country>
+ <shipping_first_name></shipping_first_name>
+ <shipping_last_name></shipping_last_name>
+ <shipping_company></shipping_company>
+ <shipping_phone></shipping_phone>
+ <shipping_address_1></shipping_address_1>
+ <shipping_address_2></shipping_address_2>
+ <shipping_postcode></shipping_postcode>
+ <shipping_city></shipping_city>
+ <shipping_state></shipping_state>
+ <shipping_country></shipping_country>
+ <customer_note></customer_note>
+ <wt_import_key>174853</wt_import_key>
+ <shipping_items></shipping_items>
+ <fee_items></fee_items>
+ <tax_items></tax_items>
+ <coupon_items></coupon_items>
+ <refund_items></refund_items>
+ <order_notes>content:התשלום יבוצע בעת המסירה. מצב ההזמנה שונה ממצב ממתין לתשלום למצב בטיפול.|date:2023-06-27 12:13:54|customer:|added_by:system</order_notes>
+ <download_permissions>1</download_permissions>
+ <meta:is_vat_exempt xmlns:meta="meta">no</meta:is_vat_exempt>
+ <meta:profile xmlns:meta="meta"></meta:profile>
+ <meta:save_token_on_user xmlns:meta="meta"></meta:save_token_on_user>
+ <line_item_1>name:תורה ככתבה וכפירושה|product_id:159896|sku:159896|quantity:1|total:99.00|sub_total:99.00</line_item_1>
+ <line_item_2></line_item_2>
+ <line_item_3></line_item_3>
+</Order>
+</Orders>

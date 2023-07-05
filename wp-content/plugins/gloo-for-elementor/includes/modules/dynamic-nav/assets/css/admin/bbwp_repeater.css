@@ -1,0 +1,42 @@
+.clearboth{
+  clear: both;
+  margin:0px;
+  padding:0px;
+}
+.repeatable_fields{
+  margin:0px;
+  padding:0px;
+  list-style-type: none;
+}
+.repeatable_fields li{
+  border:1px solid #d5dadf;
+  padding:0;
+  margin:0 0 15px 0;
+}
+.repeatable_fields li h3{
+  border-bottom:1px solid #d5dadf;
+  background-color: #ccc;
+  /*float:left;*/
+  margin:0px 0 0px 0;
+  padding:10px;
+}
+.repeatable_fields li .removebutton_container{
+  float:right;
+  z-index: 2;
+}
+.repeatable_fields .repeater_item_container{
+  padding:10px;
+}
+.add_new_li_button{
+  text-transform: uppercase;
+}
+.add_new_li_button img{
+  width: 15px;
+  margin-right: 10px;
+  margin-top: 2px;
+}
+/*@media (min-width: 2150px) {
+  .gloo-items .gloo-feature-title {
+      top: -42px;
+  }
+}*/
