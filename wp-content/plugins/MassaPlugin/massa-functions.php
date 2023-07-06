@@ -161,6 +161,6 @@ function display_users() {
 // Function to display text
 function display_text() {
   echo '<h2>Just Another Text</h2>';
-  echo '<p>Baliii App</p>';
+  echo '<p>BaliText</p>';
 }
 
