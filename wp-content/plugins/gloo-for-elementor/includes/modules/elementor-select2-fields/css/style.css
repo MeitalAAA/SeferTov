@@ -1,0 +1,42 @@
+.select2-container--default .select2-selection--single span.select2-selection__arrow > b {
+  border-color: #888 transparent transparent transparent;
+  border-style: solid;
+  border-width: 5px 4px 0 4px;
+  height: 0;
+  left: 96%;
+  margin-left: -4px;
+  margin-top: -2px;
+  position: absolute;
+  top: 50%;
+  width: 0;
+  right: 2%;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+  /* height: 26px; */
+  /* position: absolute; */
+  /* top: 1px; */
+  /* right: 1px; */
+  /* width: 20px; */
+  position: inherit;
+}
+
+.select2-container .select2-selection--single .select2-selection__rendered {
+  margin:0;
+  padding:0;
+  color: inherit; /* Control for this */
+}
+
+span.select2-selection.select2-selection--single{
+  display: flex;
+  height: 50px; /* Control for this */
+  align-items: center;
+  padding:0 0 0 15px; /* Control for this */
+  border: 2px solid lightgrey; /* Control for this */
+  background-color: transparent; /* Control for this */
+}
+
+/*li#select2-form-field-field_bd61f68-result-cvd5-Power*/ .select2-results__option--selectable {
+  background-color: black; /* Control for this */
+  color: white; /* Control for this text color */
+}

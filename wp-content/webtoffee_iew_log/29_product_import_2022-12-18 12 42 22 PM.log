@@ -1,0 +1,7 @@
+12-18-2022 @ 12:42:22 - ---[ New import started at 2022-12-18 12:42:22 ] PHP Memory: 256 MB, WP Memory: 51 B
+12-18-2022 @ 12:42:22 - Preparing for import.
+12-18-2022 @ 12:42:22 - Row :1 - Parsing item.
+12-18-2022 @ 12:42:22 - Row :1 - Parsing failed. Reason: Product with same ID already exists. ID: 160892
+12-18-2022 @ 12:42:24 - Preparing for import.
+12-18-2022 @ 12:42:24 - Row :2 - Parsing item.
+12-18-2022 @ 12:42:24 - Row :2 - Parsing failed. Reason: Product with same ID already exists. ID: 160892

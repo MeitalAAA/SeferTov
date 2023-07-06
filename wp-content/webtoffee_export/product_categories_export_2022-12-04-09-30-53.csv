@@ -1,0 +1,99 @@
+term_id,name,slug,description,display_type,parent,thumbnail,meta:rank_math_title,meta:rank_math_description,meta:rank_math_robots,meta:rank_math_focus_keyword,meta:rank_math_canonical_url
+16,"ספרי הוצאת ראובן מס",rmass_publication,"הספרים של הוצאת ראובן מס - ספרי עיון וספרי יהדות",products,0,,,,,,
+30,"ספרים מהוצאות שונות",public,"סיפריי עיון דת ופנאי לכל דורש",products,0,https://sefertov.co.il/wp-content/uploads/2022/09/Depositphotos_26818899_S.jpeg,,,,ספרי,
+182,"001 ספרות ילדים ונוער",001,"ספרות ילדים ונוער",both,16,,,,,,
+183,"002 ספרות דתית לילדים",002,"ספרות דתית לילדים",default,16,,,,,,
+184,"005 שירה",005,שירה,default,16,,,,,,
+185,"007 הומור",007,הומור,default,16,,,,,,
+186,"010 חקרי ספרות ולשון",010,"חקרי ספרות ולשון",default,16,,,,,,
+187,"025 הסטוריה כללית",025,"הסטוריה כללית",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+188,"30 היהודים בתפוצות",30,"היהודים בתפוצות",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+189,"31 ציונות",31,ציונות,default,16,,"%term% %sep% %sitename%",%term_description%,,,
+190,"32 השואה",32,השואה,default,16,,"%term% %sep% %sitename%",%term_description%,,,
+191,"35 ארץ-ישראל",35,ארץ-ישראל,default,16,,"%term% %sep% %sitename%",%term_description%,,,
+192,"39 פוליטיקה",39,פוליטיקה,default,16,,"%term% %sep% %sitename%",%term_description%,,,
+193,"40 התישבות",40,התישבות,default,16,,"%term% %sep% %sitename%",%term_description%,,,
+194,"41 מדעי היהדות",41,"מדעי היהדות",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+195,"42 חברה וחינוך",42,"חברה וחינוך",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+196,"43 הגות ופילוסופיה",43,"הגות ופילוסופיה",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+197,"45 חוק ומשפט",45,"חוק ומשפט",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+198,"46 פובליציסטיקה",46,פובליציסטיקה,default,16,,"%term% %sep% %sitename%",%term_description%,,,
+199,"47 צבא, מלחמה, נשק",47,"צבא, מלחמה, נשק
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+200,"48 כלכלה וכספים",48,"כלכלה וכספים
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+201,"50 המזרח התיכון",50,"המזרח התיכון",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+202,"055 יחסי ישראל-ערב",55,"יחסי ישראל-ערב
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+203,"060 ביוגרפיות ויומנים",060,"ביוגרפיות ויומנים
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+204,"60 ביוגרפיות ויומנים",60,"ביוגרפיות ויומנים
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+205,"075 יידיש",075,יידיש,default,16,,"%term% %sep% %sitename%",%term_description%,,,
+206,"080 יהדות – כללי",080,"יהדות - כללי
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+207,"081 חגי ישראל",081,"חגי ישראל
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+208,"085 תנ""ך ומפרשיו",085,"תנ""ך ומפרשיו
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+209,"086 פרשת השבוע",086,"פרשת השבוע
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+210,"090 משנה, תלמוד, מדרש",090,"משנה, תלמוד, מדרש
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+211,"095 הלכה",095,"הלכה
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+212,"096 קבלה",096,קבלה,default,16,,"%term% %sep% %sitename%",%term_description%,,,
+213,"097 חסידות",097,"חסידות
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+214,"100 הגות דתית, דרשות ומוסר",100,"הגות דתית, דרשות ומוסר
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+215,"101 פיוט ותפילה",101,"פיוט ותפילה
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+216,"105 כתבי-עת",105,"כתבי-עת
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+217,"110 ספרי-לימוד",110,"ספרי-לימוד
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+218,"115 אמנות ומוסיקה",115,"אמנות ומוסיקה
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+219,"120 ספרי יעץ ולקסיקון",120,"ספרי יעץ ולקסיקון
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+220,"121 דיסרציות",121,דיסרציות,default,16,,"%term% %sep% %sitename%",%term_description%,,,
+221,"129 מדעי הרוח",129,"מדעי הרוח
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+222,"130 מדעי החברה",130,"מדעי החברה
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+223,"131 מדעי הטבע",131,"מדעי הטבע
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+224,"132 ארכאולוגיה, גאולוגיה",132,"ארכאולוגיה, גאולוגיה
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+225,"135 שונות",135,"שונות
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+226,"140 ספרים שאזלו ונדירים",140,"ספרים שאזלו ונדירים
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+227,"145 הצעות מיוחדות",145,"הצעות מיוחדות
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+228,"150 ספרים בשפות זרות",150,"ספרים בשפות זרות
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+229,"151 תקליטורים ומולטימדיה",151,"תקליטורים ומולטימדיה
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+230,"152 ספרים בערבית",152,"ספרים בערבית
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+231,"999 ללא סיווג",999,"ללא סיווג
+",default,16,,"%term% %sep% %sitename%",%term_description%,,,
+232,אמאזון,amazon,"ספרים שאפשר לקנות באמזון",default,0,,,,,,
+233,"ספרים שאזלו",nullbooks,"ספרים שאין לנו יותר במלאי אבל אם תבקשו נייצר אותם מחדש",products,0,https://sefertov.co.il/wp-content/uploads/2022/09/Depositphotos_11601609_S.jpeg,,,,,
+234,"ספרים חדשים",newbooks,"ספרים חדשים חמים ממכבש הדפוס להנאתכם.",default,0,,,,,,
+239,041,041,,default,0,,,,,,
+240,030,030,,default,0,,,,,,
+241,047,047,,default,0,,,,,,
+242,043,043,,default,0,,,,,,
+243,042,042,,default,0,,,,,,
+244,035,035,,default,0,,,,,,
+245,048,048,,default,0,,,,,,
+246,032,032,,default,0,,,,,,
+247,031,031,,default,0,,,,,,
+248,045,045,,default,0,,,,,,
+249,046,046,,default,0,,,,,,
+250,039,039,,default,0,,,,,,
+251,055,055,,default,0,,,,,,
+252,050,050,,default,0,,,,,,

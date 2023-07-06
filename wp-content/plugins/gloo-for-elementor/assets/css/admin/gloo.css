@@ -1,0 +1,478 @@
+/*##### global css #####*/
+.gloo-wrapper {
+    overflow: hidden;
+    direction: ltr;
+    font-family: 'cabinregular';
+}
+.gloo-btn {
+    background-color: #26767E;
+    border: 2px solid #fff;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    width: 100px;
+    color: #fff;
+    font-size: 17px;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    line-height: 1;
+}
+.gloo-btn-black {
+    background-color: #000;
+    border: none;
+    border-radius: 30px;
+    display: block;
+    max-width: 100%;
+    width: 90px;
+    color: #fff;
+    font-size: 15px;
+    padding: 8px 8px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a.gloo-btn-black:hover, 
+a.gloo-btn-black:focus, 
+a.gloo-btn-black:active,
+a.gloo-btn:hover, 
+a.gloo-btn:focus, 
+a.gloo-btn:active
+{
+    color: #fff;
+    text-decoration: none;
+}
+
+/*##### gloo bar #####*/
+.gloo-bar {
+    padding: 30px 15px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-color: #333;
+}
+.gloo-bar .gloo-logo img {
+    display: block;
+    max-width: 100%;
+    width: 100px;
+}
+.gloo-bar .gloo-login {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.gloo-bar .gloo-login .gloo-login-link {
+    color: white;
+    font-family: 'cabinregular';
+    text-decoration: none;
+    font-size: 14px;
+    margin: 0 30px;
+    text-transform: uppercase;
+    background: #425eff;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.gloo-bar .gloo-login p {
+    text-transform: uppercase;
+    color: #EDEDED;
+    display: inline;
+    margin: 0 22px;
+}
+
+/*##### gloo-version #####*/
+.gloo-version {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 12px 30px;
+}
+
+.gloo-version p {
+    text-transform: uppercase;
+    font-size: 16px;
+    margin-bottom: 18px;
+    display: inline-block;
+}
+
+.gloo-version p span {
+    color: #cc0000;
+}
+
+.gloo-version p span.gloo-active {
+    color: #26767E;
+}
+
+/*##### gloo items container #####*/
+.gloo-item-container {
+    position: relative;
+}
+
+.gloo-item-container .gloo-building {
+    position: absolute;
+    top: -131px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 520px;
+}
+
+/*##### gloo items #####*/
+.gloo-items {
+    background-color: #fff;
+    padding: 50px 20px;
+    display: flex;
+    flex-wrap: wrap;  
+    justify-content: space-between;
+}
+
+.gloo-items .gloo-feature-title {
+    margin-bottom: 20px;
+    position: absolute;
+    top: -22px;
+}
+
+.gloo-items .gloo-feature .gloo-box {
+    padding: 65px 0 40px 22px;
+    position: relative;
+}
+.gloo-items .gloo-feature {
+    flex: 0 0 32%;
+    margin: 0 6px;
+    border-left: 1px solid #CECECE;
+    border-top: 1px solid #CECECE;
+    border-bottom: 1px solid #CECECE;
+    border-radius: 10px;
+    position: relative;
+    max-width: 32%;
+}
+
+.gloo-items .gloo-feature-2 {
+    margin-top: 26px!important;
+}
+
+.gloo-items .gloo-feature.no-border {
+    border: none;
+    margin-top: -20px;
+}
+
+.gloo-items .gloo-feature img {
+    display: block;
+    max-width: 100%;
+}
+.gloo-items .gloo-feature ul li {
+    font-size: 17px;
+    margin-bottom: 18px;
+    color: #625858;
+    text-transform: capitalize;
+}
+.gloo-items .gloo-feature ul li span {
+    font-size: 7px;
+    text-transform: uppercase;
+    background: rgb(89,9,121);
+    background: linear-gradient(90deg, rgba(89,9,121,0.6376925770308124) 0%, rgba(230,14,212,1) 90%);
+    display: inline-block;
+    color: #fff;
+    padding: 1px 2px;
+    line-height: 1.2;
+    vertical-align: middle;
+}
+.gloo-items .gloo-feature ul li lable {
+    position: relative;
+}
+.gloo-items .gloo-feature ul li small {
+    font-size: 10px;
+    float: right;
+}
+.gloo-items .gloo-feature ul li small.module-setting {
+    display: none;
+}
+.gloo-items .gloo-feature ul li small a {
+    text-decoration: none;
+    color: #929292;
+}
+.gloo-items .gloo-feature ul li small a:nth-of-type(1) {
+    margin-right: 10px;
+}
+.gloo-items .gloo-feature ul li small a:hover {
+    color: #929292;
+}
+.gloo-items .gloo-feature .gloo-check {
+    display: inline-block;
+}
+
+.gloo-items .gloo-feature ul li .gloo-tool {
+    display: inline-block;
+}
+
+.gloo-items .gloo-feature ul li .gloo-tool .tool-tip-content {
+    display: none;
+    position:absolute;
+    top:50%;
+    transform:translateY(-50%);
+    left:100%;
+    margin-left:15px;
+    width:220px;
+    padding:10px;
+    border-radius:10px;
+    background:#000;
+    color: #fff;
+    text-align:left;
+    font-size: 12px;
+    z-index: 9;
+}
+
+.gloo-items .gloo-feature ul li .tool-tip {
+    background-image: url('../../images/admin/tool-tip.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    margin-left: 4px;
+    margin-right: 4px;
+    position: relative;
+}
+
+.gloo-items .gloo-feature ul li .gloo-tool .tool-tip-content p {
+    font-size: 10px;
+}
+.gloo-items .gloo-feature ul li .gloo-tool .tool-tip:hover + .tool-tip-content {
+    display:block;
+}
+.gloo-items .gloo-feature ul li .tool-tip:after {
+    content: "";
+    position:absolute;
+    left:100%;
+    margin-left:-5px;
+    top:50%;
+    transform:translateY(-50%);
+    border:10px solid #000;
+    border-color: transparent black transparent transparent;
+    display:none;
+  }
+  .gloo-items .gloo-feature ul li .tool-tip:hover:before, .gloo-items .gloo-feature ul li .tool-tip :hover:after {
+    display:block;
+  }
+  
+.gloo-items .gloo-feature .gloo-support {
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    margin: 10px 0;
+}
+
+.gloo-items .gloo-feature .gloo-support .gloo-key {
+    padding-top: 3px;
+    text-transform: uppercase;
+}
+
+.gloo-items .gloo-feature .gloo-support .gloo-fly {
+    background-image: url('../../images/admin/SupportHero.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 44%;
+    position: relative;
+    margin-right: 54px;
+    top:-53px;
+}
+.gloo-items .gloo-feature .gloo-support .gloo-fly:before {
+    display: block;
+    content: '';
+    padding-top: 100%;
+}
+
+.gloo-items .gloo-feature .gloo-support .gloo-fly .gloo-btn-black {
+    position: absolute;
+    right: -7px;
+    bottom: -37px;
+    padding: 5px;
+}
+
+.gloo-items .gloo-feature .gloo-interactor {
+    width: 100%;
+
+}
+.gloo-items .gloo-feature .gloo-interactor .gloo-tutorials {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.gloo-items .gloo-feature .gloo-interactor .gloo-tutorials .gloo-image {
+    flex: 1 1 46%;
+    margin: 0 5px;
+}
+
+
+.gloo-items .gloo-feature .gloo-interactor .gloo-tutorials .gloo-image a {
+    text-align: center;
+    color: #CECECE;
+    display: inline-block;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.gloo-items .gloo-feature .gloo-interactor .gloo-tutorials .gloo-image .gloo-image-text {
+    font-size: 11px;
+}
+
+.gloo-items .gloo-feature .gloo-interactor .gloo-tutorials .gloo-image img {
+    margin-bottom: 5px;
+}
+
+.gloo-items .gloo-feature .gloo-interactor ol {
+    list-style: none;
+    text-align: center;
+    margin-left: 0;
+}
+.gloo-items .gloo-feature .gloo-interactor ol li {
+    display: inline-block;
+    margin: 0 2px;
+}
+.gloo-items .gloo-feature .gloo-interactor ol li img {
+    width: 30px;
+}
+.gloo-items .gloo-feature .gloo-interactor  .gloo-links {
+    text-align: center;
+    margin-bottom: 6px;
+}
+.gloo-items .gloo-feature .gloo-interactor .gloo-links a {
+    color: #CECECE;
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    margin-right: 10px;
+    text-transform: uppercase;
+    font-size: 11px;
+    outline: none;
+}
+.gloo-items .gloo-feature .gloo-interactor .gloo-links a:after {
+    content: '';
+    background-color: #CECECE;
+    height: 14px;
+    width: 1px;
+    display: block;
+    position: absolute;
+    right: -6px;
+    top: 2px;
+}
+
+.gloo-items .gloo-feature .gloo-interactor .gloo-links a:last-child:after {
+    display: none;
+}
+
+.gloo-items .flipswitch {
+    position: relative;
+    background: #CECECE;
+    width: 40px;
+    height: 18px;
+    -webkit-appearance: initial;
+    border-radius: 15px;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    outline: none;
+    font-size: 14px;
+    font-family: Trebuchet, Arial, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    outline: none;
+}
+.gloo-items .flipswitch:after {
+    position: absolute;
+    top: 5%;
+    display: block;
+    line-height: 32px;
+    width: 41%;
+    height: 87%;
+    background: #fff;
+    box-sizing: border-box;
+    text-align: center;
+    transition: all 0.3s ease-in 0s;
+    color: black;
+    border: #888 1px solid;
+    border-radius: 50%;
+  }
+  
+.gloo-items .flipswitch:after {
+    left: 2%;
+    content: "";
+    background-color: #fff;
+  }
+  
+.gloo-items .flipswitch:checked:after {
+    left: 53%;
+    content: "";
+    background-color: #fff;
+}
+.gloo-items .flipswitch:checked:before {
+    display: none;
+}   
+
+.gloo-items .flipswitch:checked {
+    background: #425EFF;
+}
+.gloo-items .flipswitch:checked + .module-setting {
+    display: block;
+}
+
+/* gloo listing module */
+
+.gloo-lms-wrap .gloo-lsm-item a {
+    margin-right: auto;
+    background: #757575;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 2px 10px;
+}
+
+.gloo-lms-wrap .gloo-lsm-item {
+    display: flex;
+    flex-direction: row;
+    background: gainsboro;
+    padding: 10px;
+    align-items: center;
+    border-radius: 5px;
+    margin-bottom: 8px;
+}
+
+.gloo-lms-wrap .gloo-lsm-item div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    direction: ltr;
+}
+
+.gloo-lms-wrap .add-new {
+    background: #757575;
+    display: inline-block;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.gloo-lms-wrap .gloo-lsm-item div:not(:first-child) {
+    margin-right: 50px;
+}
+
+.gloo-settings input[type="text"],
+.gloo-settings textarea {
+    width: 50%;
+}
+.gloo-settings textarea { 
+    height: 150px;
+}
+@media (min-width: 2150px) {
+    .gloo-items .gloo-feature-title {
+        top: -42px;
+    }
+}
