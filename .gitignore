@@ -1,6 +1,0 @@
-# Ignore configuration files
-wp-config.php
-.htaccess
-
-# Ignore databases 
-# databases
