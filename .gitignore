@@ -1,3 +1,10 @@
-# wp-config.php
-# .htaccess
-# databases
+# Ignore all files and directories
+*
+
+# Negate and include the plugins directory
+!wp-content/plugins/
+!wp-content/plugins/*
+
+# Negate and include the themes directory
+!wp-content/themes/
+!wp-content/themes/*
