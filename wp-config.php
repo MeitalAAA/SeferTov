@@ -1,5 +1,5 @@
 <?php
-define( 'WP_DEBUG', false );
+define("WP_DEBUG", false);
 /**
  * The base configuration for WordPress
  *
@@ -22,17 +22,17 @@ define( 'WP_DEBUG', false );
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', "SeferTov");
+define('DB_NAME', 'sefe1yec_up1');
 
 /** Database username */
-define('DB_USER', "root");
+define('DB_USER', 'sefe1yec_up1');
 
 /** Database password */
-define('DB_PASSWORD', "");
-define( 'WP_MEMORY_LIMIT', '512' );
+define('DB_PASSWORD', '%7Hq7ftxfEC1@8os');
+define('WP_MEMORY_LIMIT', '512');
 
 /** Database hostname */
-define('DB_HOST', "localhost");
+define('DB_HOST', 'localhost');
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
@@ -82,11 +82,10 @@ $table_prefix = 'fyu_';
  */
 
 /* Add any custom values between this line and the "stop editing" line. */
-define( 'WP_SITEURL', 'http://localhost/SeferTov/' );
 /* That's all, stop editing! Happy publishing. */
 /** Absolute path to the WordPress directory. */
 if ( ! defined( 'ABSPATH' ) ) {
-	define( 'ABSPATH', dirname(__FILE__) . '/' );
+	define( 'ABSPATH', __DIR__ . '/' );
 }
 
 /** Sets up WordPress vars and included files. */
